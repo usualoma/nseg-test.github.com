@@ -17,7 +17,9 @@ title: Blogging Like a Hacker
 
 編集用ページはこちら
 --------------------
+
 https://github.com/nseg-test/nseg-test.github.com
+
 * github方言のmarkdownフォーマット
 * 要invitation
 * プレビュー不可
