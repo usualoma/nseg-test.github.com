@@ -11,3 +11,5 @@ title: Blogging Like a Hacker
 
 本文
 
+[同じディレクトリのページ](/subdir/hoge.html)
+[サブディレクトリのページ](/subdir/hoge.html)
