@@ -26,6 +26,7 @@ title: Blogging Like a Hacker
 * imeによる漢字変換処理にクセあり
 * urlは自動リンクしない
 * http://nseg-test.github.io/ への反映は若干のタイムラグがある
+* 新規ページを作る方法は？webからではできない？
 
 編集権限についての要望
 ----------------------
