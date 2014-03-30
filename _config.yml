@@ -1,0 +1,6 @@
+auto: true
+server: true
+markdown: kramdown
+exclude: materials
+timezone: Asia/Japan
+encoding: utf-8
