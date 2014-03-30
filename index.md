@@ -25,3 +25,4 @@ title: Blogging Like a Hacker
 * プレビュー不可
 * imeによる漢字変換処理にクセあり
 * urlは自動リンクしない
+* http://nseg-test.github.io/ への反映は若干のタイムラグがある
